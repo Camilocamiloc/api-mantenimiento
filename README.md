@@ -9,7 +9,7 @@ API desarrollada con FastAPI para predicción diaria de mantenimiento vehicular 
 
 ## Demo
 Swagger:
-https://.onrender.com/docs
+https://api-mantenimiento-vlth.onrender.com/demo
 
 ## Stack
 - FastAPI
