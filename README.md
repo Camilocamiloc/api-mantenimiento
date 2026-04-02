@@ -1,5 +1,3 @@
-Claro, aquí lo tienes listo en Markdown puro para copiar y pegar directamente en GitHub:
-
 # Sistema de Priorización Predictiva de Mantenimiento
 
 ## Resumen
