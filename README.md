@@ -74,10 +74,6 @@ Las probabilidades generadas por el modelo se utilizan para construir un ranking
 
 ---
 
-## Datos
-Los datos han sido anonimizados por motivos de confidencialidad. Se conserva la estructura, lógica y comportamiento del sistema original.
-
-
 
 # API Mantenimiento Preventivo
 
@@ -103,3 +99,5 @@ https://api-mantenimiento-vlth.onrender.com/demo
 - FastApi
 
 ---
+## Datos
+Los datos han sido anonimizados por motivos de confidencialidad. Se conserva la estructura, lógica y comportamiento del sistema original.
