@@ -79,10 +79,7 @@ Las probabilidades generadas por el modelo se utilizan para construir un ranking
 
 API desarrollada con FastAPI para predicción diaria de mantenimiento vehicular usando Random Forest.
 
-## Modelo
-- Random Forest Classifier
-- Feature engineering temporal avanzado
-- Selección óptima con cupos por tipología
+Se encuentra alojada en Render.
 
 ## Demo
 Swagger:
